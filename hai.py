@@ -1,2 +1,2 @@
 print("Baane echhakfjbhkjqwegf")
-print("chup rey ")
+print("chup")
